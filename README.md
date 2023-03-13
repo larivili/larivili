@@ -1,16 +1,15 @@
-### Hi there 👋
+# Bem vindos ao meu github!
 
-<!--
-**larivili/larivili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Luís Augusto Rivili, sou estudante de engenharia de software na Unifil Londrina, atualmente estou no primeiro ano. Tenho conhecimento básico mas nada de nível profissional. Busco desenvolver um projeto de aplicativo mobile como projeto da universidade.
+Possuo nível intermediário-avançado em inglês e certificação de nível básico em alemão.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Para entrar em contato!
+
+Para entrar em contato comigo entre nos meus perfis:
+
+github: @larivili
+
+linkedin: @Luís Augusto Rivili
+
